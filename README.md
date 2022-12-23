@@ -1,6 +1,24 @@
 # gocart23
 Electric gocart student project with FRC components
 
+## 1. Mechanics
+
+The aluminum frame of 25x50mm profiles has an outer size of 660x1220 mm (610+25+25) and is covered by a 18mm plywood plate.
+
+The CIM motor is mounted on 5mm aluminum skeleton frames that are friction-connected to the frame with 4 M6 screws on each location.
+
+The wheels are 200mm full rubber on a 8mm steel axle with ball bearings. Front can swivel, the rear wheels are driven over gearbox and belt drive.
+
+The CIM (217-2000)vmotor as 337W and 5330 rpm in free spin. With 20cm diameter wheels driving some 3.6km/h for safety this leads to 1 m/s and therefore 96 rpm of the wheel. The reduction ratio of 55 is achieved by a 12T/70T first stage and the Gates HTD (high torque drive) 5M-15 (5mm pitch, 15 mm wide) belt drive 
+
+## 2. Control Systems
+
+We control the two CIM motors with the TALON controlers over PWM, received from our ExpressLRS and the Radiomaster TX16S with the extension module.
+
+## 3. Software and Programming
+
+Using the Python interface and some LUA scripts this is going to be awesome! And safe.
+
 ## History
 
 #### 2022-12-23 Idea pitched
@@ -17,4 +35,4 @@ Observations so far:
 - Corner angles could be waterjet cutted
 - Some 
 - 12T Steel Spur Gear 20 DP available, but further gears?
-- Eight [15mm HTD timing belts](https://www.vexrobotics.com/htdbelts15.html) are available
+- Eight [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) are available
