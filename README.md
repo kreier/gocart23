@@ -5,7 +5,9 @@ Electric gocart student project with FRC components
 
 The aluminum frame of 25x50mm profiles has an outer size of 660x1220 mm (610+25+25) and is covered by a 18mm plywood plate.
 
-The CIM motor is mounted on 5mm aluminum skeleton frames that are friction-connected to the frame with 4 M6 screws on each location.
+The CIM motor is mounted on 5mm aluminum skeleton frames that are friction-connected to the frame with 4 M6 screws on each location. Specifics for the power train:
+- CIM motor has 8mm axle and 337 Watt at 2655 rpm, mount on two #10-32 wholes on a 2" circle
+- CIM mini motor has 8 mm axle and 215W at 2655 rpm
 
 The wheels are 200mm full rubber on a 8mm steel axle with ball bearings. Front can swivel, the rear wheels are driven over gearbox and belt drive.
 
