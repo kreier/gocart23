@@ -1,5 +1,8 @@
 # gocart23
-Electric gocart student project with FRC components
+
+Electric gocart student project with FRC components. Some inspiration is taken from TAS on Formosa:
+
+<img src="docs/20221202a.jpg" width="49%"> <img src="docs/20221202b.jpg" width="49%">
 
 ## 1. Mechanics
 
@@ -11,7 +14,7 @@ The CIM motor is mounted on 5mm aluminum skeleton frames that are friction-conne
 
 The wheels are 200mm full rubber on a 8mm steel axle with ball bearings. Front can swivel, the rear wheels are driven over gearbox and belt drive.
 
-The CIM (217-2000)vmotor as 337W and 5330 rpm in free spin. With 20cm diameter wheels driving some 3.6km/h for safety this leads to 1 m/s and therefore 96 rpm of the wheel. The reduction ratio of 55 is achieved by a 12T/70T first stage and the Gates HTD (high torque drive) 5M-15 (5mm pitch, 15 mm wide) belt drive 
+The CIM (217-2000)vmotor as 337W and 5330 rpm in free spin. With 20cm diameter wheels driving some 3.6km/h for safety this leads to 1 m/s and therefore 96 rpm of the wheel. The reduction ratio of 55 is achieved by a 12T/70T first stage and the Gates HTD (high torque drive) 5M-15 (5mm pitch, 15 mm wide) belt drive, see [the calculations](https://github.com/kreier/gocart23/blob/main/docs/drivetrain_gocart23.ipynb).
 
 ## 2. Control Systems
 
@@ -20,6 +23,12 @@ We control the two CIM motors with the TALON controlers over PWM, received from 
 ## 3. Software and Programming
 
 Using the Python interface and some LUA scripts this is going to be awesome! And safe.
+
+## Material
+
+We have some available, but might need more:
+
+<img src="docs/20221202_material.jpg" width="49%"> <img src="docs/20221202_storage.jpg" width="49%">
 
 ## History
 
@@ -44,3 +53,5 @@ Observations so far:
 - Some 
 - 12T Steel Spur Gear 20 DP available, but further gears?
 - Eight [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) are available
+
+
