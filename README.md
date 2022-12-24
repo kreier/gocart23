@@ -23,6 +23,12 @@ Using the Python interface and some LUA scripts this is going to be awesome! And
 
 ## History
 
+#### 2022-12-02 Visit to the Tech Cube at Taipei American School
+
+During freshmen year students of TAS use tools and materials in the 4th floor to build their own electric go-cart with remote control. The mechanical design is not completely sound, so after one semester these prototypes fall apart. But they learn CAD software, designing their model, cutting with the waterjet, wiring the control systems and testing the design. It looks like this:
+
+![prototype 2022](docs/20221202_inspiration.jpg)
+
 #### 2022-12-23 Idea pitched
 
 On Friday after semester 1 three students from VEX joined in the IDEA center to complete their robot for the 2022-2023 "Spin up" competition. While investigating the limits we discussed the possible reactivation of the FRC program. As a proof of concept we looked to replicate the freshmen project of TAS Taipei American School of building an electric go-cart with two CIM motors from FRC.
