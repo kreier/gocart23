@@ -45,13 +45,15 @@ On Friday after semester 1 three students from VEX joined in the IDEA center to 
 Observations so far:
 - Aluminum frame 1220x25x50 and 610x25x50 available
 - Top would be plywood, supply will be checked
-- Powered by two [CIM 12V motors](https://www.vexrobotics.com/217-2000.html) with 250W output
+- Powered by two [CIM 12V motors](https://www.vexrobotics.com/217-2000.html) with 337 W output
 - Electronics with [TALON SRX](https://www.vexrobotics.com/217-8080.html?___store=vexrobotics) over PWM
 - Remote control by standard PWM servo system
-- Rivet gun and rivets available
-- Corner angles could be waterjet cutted
+- Rivet gun and rivets available to create the frame
+- Corner angles could be waterjet cutted (25mm wide L 150mm long)
 - Some 
 - 12T Steel Spur Gear 20 DP available, but further gears?
-- Eight [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) are available
+- Four [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) 655 are available
+- Another five Gates PowerGrip HTD 600 5M15 timing belts available
+- Mini CIM motor (250W) available, too
 
 
