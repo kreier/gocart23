@@ -52,8 +52,9 @@ Observations so far:
 - Corner angles could be waterjet cutted (25mm wide L 150mm long)
 - Some 
 - 12T Steel Spur Gear 20 DP available, but further gears?
-- Four [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) 655 are available
+- Five [15mm HTD 5M timing belts](https://www.vexrobotics.com/htdbelts15.html) 655 are available
 - Another five Gates PowerGrip HTD 600 5M15 timing belts available
 - Mini CIM motor (250W) available, too
+- Got two CIM motors with reduction gearbox and 20T 5M belt output for our first prototype
 
 
